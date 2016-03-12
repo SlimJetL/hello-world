@@ -4,5 +4,6 @@
 int main()
 {
   std::cout << "Try new branch to commit." << std::endl;
+  std::cout << "Try to commit in pull request << std::endl;
   return 0;
 }
